@@ -19,7 +19,7 @@ input.searche::placeholder {
 }
 
 .body {
-  background-color: #f3f2ef;
+  background-color: #c0bfba;
 }
 
 .menutext {
@@ -71,7 +71,7 @@ input.content::placeholder {
 }
 
 div.card {
-  border-radius: 10px;
+  border-radius: 5px;
 }
 
 .header {
@@ -127,4 +127,8 @@ button.ref:hover {
   font-weight: bold;
   font-size: 14px;
   margin-left: 8px;
+}
+
+.min {
+  width: min-content;
 }
